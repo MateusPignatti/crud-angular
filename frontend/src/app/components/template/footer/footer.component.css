@@ -1,6 +1,6 @@
 .footer {
     position: fixed;
-    bottom: 0px;
+    bottom: 0;
     
     display: flex;
     justify-content: center;
@@ -8,5 +8,5 @@
 
 .footer span {
     font-size: 1.2rem;
-    font-weight: 360px;
+    font-weight: 360;
 }

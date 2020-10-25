@@ -5,11 +5,11 @@ html, body { height: 100%; }
 body {
     margin: 0;
     font-family: Roboto, "Helvetica Neue", sans-serif;
-    background-color: #242424;
+    background-color: #161616;
 }
 
-.blue {
-    color: #0077BE;
+.blue-text {
+    color: dodgerblue;
 }
 
 .white-text {
@@ -17,11 +17,23 @@ body {
 }
 
 .dark {
-    background-color: #242424;
+    background-color: #161616;
 }
 
 .dark-grey {
     background-color: #323232;
+}
+
+.blue {
+    background-color: #0077BE;
+}
+
+.dark-blue{
+    background-color: #043272;
+}
+
+.navy-blue {
+    background-color: #122148;
 }
 
 .v-middle{
