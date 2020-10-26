@@ -5,11 +5,13 @@
     <form>
 
         <mat-form-field>
-            <input matInput placeholder="Nome" [value]="product.name" name="name" disabled>
+            <input matInput [value]="product.name" name="name" disabled>
+            <mat-placeholder class="placeholder">Nome</mat-placeholder>
         </mat-form-field>
 
         <mat-form-field>
-            <input matInput placeholder="Preço (R$)" [value]="product.price" name="price" disabled>
+            <input matInput [value]="product.price" name="price" disabled>
+            <mat-placeholder class="placeholder">Preço (R$)</mat-placeholder>
         </mat-form-field>
 
     </form>
