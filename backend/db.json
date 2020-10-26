@@ -4,6 +4,11 @@
       "id": 1,
       "name": "Caneta BIC Azul",
       "price": 1.99
+    },
+    {
+      "name": "Lápis Grafite Faber-Castell 2B",
+      "price": "0.99",
+      "id": 2
     }
   ]
 }

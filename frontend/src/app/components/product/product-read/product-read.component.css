@@ -9,3 +9,7 @@ th {
 td {
     color: white;
 }
+
+.action {
+    margin-right: 15px;
+}
