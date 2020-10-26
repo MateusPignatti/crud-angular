@@ -9,6 +9,11 @@
       "name": "Lápis Grafite Faber-Castell 2B",
       "price": "0.99",
       "id": 2
+    },
+    {
+      "name": "Borracha Preta",
+      "price": "1.49",
+      "id": 3
     }
   ]
 }
